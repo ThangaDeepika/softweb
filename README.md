@@ -345,9 +345,6 @@ footer{
 ```
 ## slider.css
 ```
-* {box-sizing:border-box}
-
-/* Slideshow container */
 .slideshow-container {
   max-width: 70%;
   padding-top: 3% 0%;
@@ -355,13 +352,9 @@ footer{
   margin: auto;
   
 }
-
-/* Hide the images by default */
 .mySlides {
   display: none;
 }
-
-/* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
   position: absolute;
@@ -376,28 +369,23 @@ footer{
   border-radius: 0 3px 3px 0;
   user-select: none;
 }
-
-/* Position the "next button" to the right */
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
-
-/* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
 }
-
-/* Caption text */
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-04-28 232330](https://github.com/ThangaDeepika/softweb/assets/125663099/070a4f40-2f4c-4a86-9e39-b321ff0943a7)
-![Screenshot 2024-04-28 232251](https://github.com/ThangaDeepika/softweb/assets/125663099/99174ce3-2362-4921-af48-b09539eec4f7)
-![Screenshot 2024-04-28 232232](https://github.com/ThangaDeepika/softweb/assets/125663099/cef611f7-3bc3-4179-83da-15e7219a0f94)
-![Screenshot 2024-04-28 232312](https://github.com/ThangaDeepika/softweb/assets/125663099/49110ea4-243c-422e-b13d-b134a2c476a9)
+![Screenshot 2024-04-28 232330-min](https://github.com/ThangaDeepika/softweb/assets/125663099/e308cbbf-9c59-4047-a576-d436c549adb9)
+![Screenshot 2024-04-28 232251-min](https://github.com/ThangaDeepika/softweb/assets/125663099/80caaa48-4897-44d2-9306-2f8ff8ba83e7)
+![Screenshot 2024-04-28 232232-min](https://github.com/ThangaDeepika/softweb/assets/125663099/624368e1-f216-46e2-8b95-f9d0cd3d118f)
+![Screenshot 2024-04-28 232312-min](https://github.com/ThangaDeepika/softweb/assets/125663099/ed8d30f7-9f84-4065-a6b7-42698baee972)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
