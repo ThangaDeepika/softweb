@@ -1,4 +1,4 @@
-![Screenshot 2024-04-28 232330](https://github.com/ThangaDeepika/softweb/assets/125663099/9ff7e900-e46f-479f-a69e-77058d3f9234)# Ex.07 Software Product Company Website
+# Ex.07 Software Product Company Website
 ## Date:
 
 ## AIM:
