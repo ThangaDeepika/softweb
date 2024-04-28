@@ -94,17 +94,6 @@ Publish the website in the given URL.
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Us</title>
-    <style>
-        footer{
-    background-color: hsla(240, 87%, 32%, 0.616);
-    color: papayawhip;
-    text-align: center;
-    padding: 20px 0;
-    position: fixed;
-    bottom: 0%;
-    width: 100%;
-}
-    </style>
 </head>
 <body>
     h1>About Us</h1>
@@ -149,44 +138,6 @@ Publish the website in the given URL.
     h1, h2 {
         margin: 20px 0;
     }
-    .product {
-        background-color: #fff;
-        padding: 20px;
-        margin-bottom: 20px;
-        border-radius: 5px;
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    }
-    .product img {
-        max-width: 100%;
-        height: auto;
-        border-radius: 5px;
-    }
-    .product-details {
-        margin-top: 20px;
-    }
-    .product-details p {
-        margin-bottom: 10px;
-    }
-    .btn {
-        display: inline-block;
-        padding: 10px 20px;
-        background-color: #007bff;
-        color: #fff;
-        text-decoration: none;
-        border-radius: 5px;
-    }
-    .btn:hover {
-        background-color: #0056b3;
-    }
-    footer{
-    background-color: hsla(240, 87%, 32%, 0.616);
-    color: papayawhip;
-    text-align: center;
-    padding: 20px 0;
-    position: fixed;
-    bottom: 0%;
-    width: 100%;
-}
 </style>
 </head>
 <body>
@@ -266,15 +217,6 @@ Publish the website in the given URL.
         margin-top: 10px;
         font-size: 14px;
     }
-    footer{
-    background-color: hsla(240, 87%, 32%, 0.616);
-    color: papayawhip;
-    text-align: center;
-    padding: 20px 0;
-    position: fixed;
-    bottom: 0%;
-    width: 100%;
-}
 </style>
 </head>
 <body>
@@ -340,40 +282,7 @@ Publish the website in the given URL.
     label {
         display: block;
         margin-bottom: 5px;
-    }
-    input[type="text"],
-    input[type="email"],
-    textarea {
-        width: 100%;
-        padding: 10px;
-        margin-bottom: 10px;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-        box-sizing: border-box;
-    }
-    textarea {
-        height: 150px;
-    }
-    input[type="submit"] {
-        background-color: #4CAF50;
-        color: white;
-        padding: 10px 20px;
-        border: none;
-        border-radius: 5px;
-        cursor: pointer;
-    }
-    input[type="submit"]:hover {
-        background-color: #45a049;
-    }
-    footer{
-    background-color: hsla(240, 87%, 32%, 0.616);
-    color: papayawhip;
-    text-align: center;
-    padding: 20px 0;
-    position: fixed;
-    bottom: 0%;
-    width: 100%;
-}
+    }  
 </style>
 </head>
 <body>
@@ -480,47 +389,6 @@ footer{
 }
 
 /* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
-/* The dots/bullets/indicators */
-.dot {
-  cursor: pointer;
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.active, .dot:hover {
-  background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
 @keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
